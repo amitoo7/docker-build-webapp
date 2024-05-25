@@ -29,7 +29,7 @@ const BuildForm = () => {
       setIsBuilding(false); // Change button back to "Build"
     };
   };
-
+// here we are confiuring the page dashboard
   return (
     <div className="p-4 max-w-lg mx-auto mt-10 bg-white rounded shadow-lg">
       <h1 className="text-2xl font-bold mb-4">Docker Build Webapp</h1>
